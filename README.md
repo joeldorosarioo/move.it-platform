@@ -17,7 +17,7 @@ Through our method you will learn new tools, learn about new technologies and di
 
 ## Project
 
-Proffy is a project developed based on the national day of Education professionals that takes place on August 6th.
+Move.it is a project that combines the pomodoro technique with some challenges for the well-being of those who spend many hours using the computer.
 
 The goal is to create an application where you can find private tutors and connect with them.
 
