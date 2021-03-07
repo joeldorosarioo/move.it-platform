@@ -37,9 +37,9 @@ From your command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/joeldorosarioo/proffy-platform
+$ git clone https://github.com/joeldorosarioo/move.it.git
 
-$ cd proffy-platform/web
+$ cd move.it
 
 # Install dependencies
 $ yarn
