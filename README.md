@@ -19,8 +19,6 @@ Through our method you will learn new tools, learn about new technologies and di
 
 Move.it is a project that combines the pomodoro technique with some challenges for the well-being of those who spend many hours using the computer.
 
-The goal is to create an application where you can find private tutors and connect with them.
-
 ## Technologies
 
 This project was developed with the following technologies:
