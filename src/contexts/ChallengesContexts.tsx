@@ -44,10 +44,6 @@ export function ChallengesProvider({ children, ...rest }: ChallengesProviderProp
 	const experienceToNextLevel = Math.pow((level + 1) * 4, 2);
 
 	useEffect(() => {
-		Notification.requestPermission();
-	}, []);
-
-	useEffect(() => {
 		Cookies.set('level', String(level));
 		Cookies.set('currentExperience', String(currentExperience));
 		Cookies.set('challengesCompleted', String(challengesCompleted));
